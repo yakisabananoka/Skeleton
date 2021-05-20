@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{62d6e762-175f-40b5-928d-f15bc5efa3e0}</ProjectGuid>
-    <RootNamespace>Skelton</RootNamespace>
+    <ProjectGuid>{8fac6f4b-6d12-4dbe-a52c-6c9d714ab241}</ProjectGuid>
+    <RootNamespace>Skeleton</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
